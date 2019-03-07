@@ -6,4 +6,5 @@
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
+  <component name="LiveEditOptions" nodeUpdateOnChanges="true" />
 </application>
