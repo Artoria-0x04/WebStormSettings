@@ -776,7 +776,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="80" />
+        <option name="FOREGROUND" value="3199e1" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1687,7 +1687,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="80" />
+        <option name="FOREGROUND" value="3199e1" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
