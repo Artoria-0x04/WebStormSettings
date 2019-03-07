@@ -1,4 +1,15 @@
 <scheme name="Ayu-light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_COLOR" value="ff8f40" />
     <option name="CARET_ROW_COLOR" value="f3f3f3" />
