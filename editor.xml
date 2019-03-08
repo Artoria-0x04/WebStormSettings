@@ -10,5 +10,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
-  <component name="LiveEditOptions" nodeUpdateOnChanges="true" />
+  <component name="LiveEditOptions" nodeUpdateOnChanges="true" useJBChromeExtension="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
 </application>
